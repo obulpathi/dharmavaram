@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /sarees/
+Disallow: /css/
+Disallow: /scripts/
+Disallow: /images/
